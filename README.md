@@ -15,5 +15,5 @@ accidentally overriding the existing toolchain, and to avoid installing an entir
 To override this behavior, you can set the `RUST_INSTALL_MODE` environment variable to `skip`, if you wish 
 to always skip the installation, or to `force`, if you wish to always install the toolchain.
 
-Created by Walter
+Created by Walter and Amobi N.
 # npm-install-rust
